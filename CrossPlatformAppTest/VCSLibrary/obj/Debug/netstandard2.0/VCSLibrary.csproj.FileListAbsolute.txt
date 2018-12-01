@@ -1,0 +1,6 @@
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSLibrary.deps.json
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSLibrary.dll
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSLibrary.csproj.CoreCompileInputs.cache
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSLibrary.AssemblyInfoInputs.cache
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSLibrary.AssemblyInfo.cs
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSLibrary.csprojAssemblyReference.cache

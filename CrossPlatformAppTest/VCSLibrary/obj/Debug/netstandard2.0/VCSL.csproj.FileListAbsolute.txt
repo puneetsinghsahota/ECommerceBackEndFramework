@@ -1,0 +1,10 @@
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.csprojAssemblyReference.cache
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.csproj.CoreCompileInputs.cache
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.AssemblyInfoInputs.cache
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.AssemblyInfo.cs
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSL.deps.json
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSL.dll
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSL.pdb
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.dll
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.pdb
+D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\XamlC.stamp
