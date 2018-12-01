@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\VCSLibrary\\VCSL.csproj",
+      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\VCSLibrary\\VCSL.csproj",
       "projectName": "VCSL",
-      "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\VCSLibrary\\VCSL.csproj",
+      "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\VCSLibrary\\VCSL.csproj",
       "packagesPath": "C:\\Users\\44782\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\VCSLibrary\\obj\\",
+      "outputPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\VCSLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

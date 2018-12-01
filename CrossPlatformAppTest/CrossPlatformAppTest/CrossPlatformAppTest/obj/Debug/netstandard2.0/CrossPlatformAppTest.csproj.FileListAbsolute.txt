@@ -1,0 +1,12 @@
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\bin\Debug\netstandard2.0\CrossPlatformAppTest.deps.json
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\bin\Debug\netstandard2.0\CrossPlatformAppTest.dll
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\bin\Debug\netstandard2.0\CrossPlatformAppTest.pdb
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.csprojAssemblyReference.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.csproj.CoreCompileInputs.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.AssemblyInfoInputs.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.AssemblyInfo.cs
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.dll
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\CrossPlatformAppTest\CrossPlatformAppTest\obj\Debug\netstandard2.0\CrossPlatformAppTest.pdb

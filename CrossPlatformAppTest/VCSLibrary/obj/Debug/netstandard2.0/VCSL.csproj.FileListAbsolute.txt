@@ -8,3 +8,13 @@ D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\bin\Debug\netstandard2.0\VCSL.pdb
 D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.dll
 D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\VCSL.pdb
 D:\PS_WorkSpace\vendi_v1\Source\VCSLibrary\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\bin\Debug\netstandard2.0\VCSL.deps.json
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\bin\Debug\netstandard2.0\VCSL.dll
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\bin\Debug\netstandard2.0\VCSL.pdb
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.csprojAssemblyReference.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.csproj.CoreCompileInputs.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.AssemblyInfoInputs.cache
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.AssemblyInfo.cs
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.dll
+C:\Users\44782\source\repos\GitPuneet\vBECS\CrossPlatformAppTest\VCSLibrary\obj\Debug\netstandard2.0\VCSL.pdb

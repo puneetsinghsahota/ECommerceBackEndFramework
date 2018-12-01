@@ -1,6 +1,0 @@
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\bin\DBMaster.dll.config
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\bin\DBMaster.dll
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\bin\DBMaster.pdb
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\obj\Release\DBMaster.csproj.CoreCompileInputs.cache
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\obj\Release\DBMaster.dll
-D:\Vendi_v1.0.0\vendi_v1.0.0\vendi_v1.0.0\DBMaster\obj\Release\DBMaster.pdb

@@ -721,11 +721,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\CrossPlatformAppTest.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\CrossPlatformAppTest.iOS.csproj",
       "projectName": "CrossPlatformAppTest.iOS",
-      "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\CrossPlatformAppTest.iOS.csproj",
+      "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\CrossPlatformAppTest.iOS.csproj",
       "packagesPath": "C:\\Users\\44782\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\obj\\",
+      "outputPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -742,8 +742,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj": {
-              "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj"
+            "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj": {
+              "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj"
             }
           }
         }

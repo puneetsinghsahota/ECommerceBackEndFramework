@@ -802,11 +802,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\CrossPlatformAppTest.Android.csproj",
+      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\CrossPlatformAppTest.Android.csproj",
       "projectName": "CrossPlatformAppTest.Android",
-      "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\CrossPlatformAppTest.Android.csproj",
+      "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\CrossPlatformAppTest.Android.csproj",
       "packagesPath": "C:\\Users\\44782\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\obj\\",
+      "outputPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -823,8 +823,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj": {
-              "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj"
+            "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj": {
+              "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj"
             }
           }
         }

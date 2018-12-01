@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj",
+      "projectUniqueName": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj",
       "projectName": "CrossPlatformAppTest",
-      "projectPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj",
+      "projectPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest.csproj",
       "packagesPath": "C:\\Users\\44782\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44782\\source\\repos\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\obj\\",
+      "outputPath": "C:\\Users\\44782\\source\\repos\\GitPuneet\\vBECS\\CrossPlatformAppTest\\CrossPlatformAppTest\\CrossPlatformAppTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
