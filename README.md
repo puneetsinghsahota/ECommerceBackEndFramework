@@ -4,3 +4,5 @@ This is a customizable backend for an E-Commerce - Developed in .NET Libraries u
 Includes Scripts and Queries required for proper mantainance of the database as well.
 
 Supported Languages : C#,.NET
+
+Developed by Puneet Singh Sahota - Bluulabs
