@@ -129,6 +129,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "VCSL": "1.0.0",
           "Xamarin.Forms": "3.3.0.967583"
         },
         "compile": {
@@ -136,6 +137,19 @@
         },
         "runtime": {
           "bin/placeholder/CrossPlatformAppTest.dll": {}
+        }
+      },
+      "VCSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "3.3.0.967583"
+        },
+        "compile": {
+          "bin/placeholder/VCSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VCSL.dll": {}
         }
       }
     },
@@ -267,6 +281,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "VCSL": "1.0.0",
           "Xamarin.Forms": "3.3.0.967583"
         },
         "compile": {
@@ -274,6 +289,19 @@
         },
         "runtime": {
           "bin/placeholder/CrossPlatformAppTest.dll": {}
+        }
+      },
+      "VCSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "3.3.0.967583"
+        },
+        "compile": {
+          "bin/placeholder/VCSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VCSL.dll": {}
         }
       }
     },
@@ -405,6 +433,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "VCSL": "1.0.0",
           "Xamarin.Forms": "3.3.0.967583"
         },
         "compile": {
@@ -412,6 +441,19 @@
         },
         "runtime": {
           "bin/placeholder/CrossPlatformAppTest.dll": {}
+        }
+      },
+      "VCSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "3.3.0.967583"
+        },
+        "compile": {
+          "bin/placeholder/VCSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VCSL.dll": {}
         }
       }
     },
@@ -543,6 +585,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "VCSL": "1.0.0",
           "Xamarin.Forms": "3.3.0.967583"
         },
         "compile": {
@@ -550,6 +593,19 @@
         },
         "runtime": {
           "bin/placeholder/CrossPlatformAppTest.dll": {}
+        }
+      },
+      "VCSL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Xamarin.Forms": "3.3.0.967583"
+        },
+        "compile": {
+          "bin/placeholder/VCSL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VCSL.dll": {}
         }
       }
     }
@@ -707,6 +763,11 @@
       "type": "project",
       "path": "../CrossPlatformAppTest/CrossPlatformAppTest.csproj",
       "msbuildProject": "../CrossPlatformAppTest/CrossPlatformAppTest.csproj"
+    },
+    "VCSL/1.0.0": {
+      "type": "project",
+      "path": "../../VCSLibrary/VCSL.csproj",
+      "msbuildProject": "../../VCSLibrary/VCSL.csproj"
     }
   },
   "projectFileDependencyGroups": {

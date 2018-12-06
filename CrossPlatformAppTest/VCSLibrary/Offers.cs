@@ -6,6 +6,7 @@
     class Offers
     {
         int _offerId;
+        string _offerReference;
         string _offerType;
         System.DateTime _offerValidity;
         Vendor _vendor;
@@ -14,11 +15,15 @@
         /// <summary>
         /// Get/Set OfferType
         /// </summary>
-        public string OfferType { get => _offerType; set => _offerType = value; }
+        public string OfferReference { get => _offerReference; set => _offerReference = value; }
 
         /// <summary>
         /// Get /Set Catalog
         /// </summary>
         public Catalog Catalog { get => _catalog; set => _catalog = value; }
+        /// <summary>
+        /// Get /Set Offer Type
+        /// </summary>
+        public string OfferType { get => _offerType; set => _offerType = value; }
     }
 }

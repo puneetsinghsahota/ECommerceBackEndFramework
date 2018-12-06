@@ -24,6 +24,7 @@ namespace VMService
                 {
                     _conn.Open();
                     success = true;
+                    
                 }
             }
             catch (MySql.Data.MySqlClient.MySqlException ex)

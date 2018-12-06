@@ -7,7 +7,7 @@ namespace VCS
     /// <summary>
     /// Advertisemnt Tile which is used to show Advertisements and Offers on the Home Screen 
     /// Might be a video or an Image
-    /// /// </summary>
+    /// </summary>
     class AdvertisementTile : Tile
     {
         string _offerID;

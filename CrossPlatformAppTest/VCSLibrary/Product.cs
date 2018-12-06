@@ -10,8 +10,7 @@
         string _productCategory;
         System.Collections.Generic.List<Tag> _productTags;
         string _productDescription;
-        int _productStock;
-        float _productWeight;
+        string _color;
         float _productPrice;
         int _productQuantity;
 
@@ -40,15 +39,8 @@
         /// </summary>
         public string ProductDescription { get => _productDescription; set => _productDescription = value; }
 
-        /// <summary>
-        /// Get/Set Product Stock
-        /// </summary>
-        public int ProductStock { get => _productStock; set => _productStock = value; }
+        
 
-        /// <summary>
-        /// Get/Set Product Weight
-        /// </summary>
-        public float ProductWeight { get => _productWeight; set => _productWeight = value; }
         
         /// <summary>
         /// Get/Set Product Price
@@ -64,5 +56,10 @@
         /// Get/Set Product Tags
         /// </summary>
         public System.Collections.Generic.List<Tag> ProductTags { get => _productTags; set => _productTags = value; }
+
+        /// <summary>
+        /// Get/Set Color Id
+        /// </summary>
+        public string Color { get => _color; set => _color = value; }
     }
 }

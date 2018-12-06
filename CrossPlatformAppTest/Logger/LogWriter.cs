@@ -7,9 +7,10 @@ namespace Logger
         string _logPath;
         string _logFileName;
         System.IO.StreamWriter _logFile;
-
+        
         void SetLoggerSetting(string path,string filename)
         {
+            
             _logger.LogPath = path;
             _logger.LogFileName = filename;
             _logger._logFile = new System.IO.StreamWriter(path);
