@@ -9,7 +9,9 @@ Includes LogIn System
 
 Includes Implemented Web Service to connect to your application.
 
-Completely customizable.
+Includes a completely implemented standalone Library with definitions of all the classes used which can be referenced and customized independently if needed.
+
+Completely customizable Framework.
 
 Supported Languages : C#,.NET
 
